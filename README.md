@@ -4,4 +4,6 @@
 # here are the topic
 1.how to write a shell script file
 2.printing
-### changes in git and pulling to ec2
+3.variable
+4.inputs
+5.
