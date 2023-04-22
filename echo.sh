@@ -12,3 +12,5 @@ echo -e "\e[36mcCYAN COLOR"
 echo hii all how are you
 echo -e "\e[35mMAGENTA COLOR\e[0m"
 echo this is tej beginnning
+echo -e "\e[34m trring the blue color output message\e[0m"
+echo trying the blue colour output message
