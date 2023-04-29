@@ -7,4 +7,4 @@ name=DevOps
 echo b = ${name}
 
 date=2023-04-29
-echo date={date}
+echo date=${date}
