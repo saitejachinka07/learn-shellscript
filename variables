@@ -13,6 +13,6 @@ date=$(date +%F)
 echo date=${date}
 
 
-ARTH=$((3-4*/2))
+ARTH=$((5-4*3/2))
 
 echo ARTH=${ARTH}
