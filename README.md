@@ -6,4 +6,8 @@
 2.printing
 3.variable
 4.inputs
-5.
+
+
+variables
+# if you assign a name to aset of variables that is called as a variable
+# by using "$" we can access the variables
