@@ -9,8 +9,8 @@ echo b = ${name}
 
 #date=2023-04-29
 
-date=$(date +%F)
-echo Today's date is=${date}
+DATE=$(date +%F)
+echo Today's date is=${DATE}
 
 
 ARTH=$((5-4*3/2))
