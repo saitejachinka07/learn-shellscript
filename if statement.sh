@@ -2,7 +2,7 @@ bike_name=$1
 company=$2
 
 
-if [ "bike_name" == continental_gt   ]
+if [ "$bike_name" == continental_gt   ]
 then
 echo bikecompany_name - $company
 
