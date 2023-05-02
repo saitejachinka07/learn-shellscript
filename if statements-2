@@ -1,11 +1,11 @@
 job=$1
-jenkis=$2
+jenkins=$2
 
 if [ "$job" == 1 ]
 then
      echo builds done and $jenkins is started
 
 else 
-    echo builds done $jenkins is broken     
+    echo builds done -$jenkins is broken     
 fi
 
