@@ -9,6 +9,18 @@ else [ "$job" == step ]
     echo -e builds done and "\e[36m $jenkins\e[0m " is broken    
 fi
 
+# number comparison
+
+if [ "$job" -gt 100 ]
+then 
+  echo -e build done in "\e[36m $jenkins \e[0m]" node
+
+else 
+
+     echo -e build done in "\e[36m savle \e[0m]" node
+
+fi
 
 
+   
 
