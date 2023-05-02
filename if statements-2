@@ -1,7 +1,7 @@
 $job = $1
 jenkis=$2
 
-if [ $job == "10" ]
+if [ "$job" == "10" ]
 then
      echo builds done and $jenkins is started
 fi
