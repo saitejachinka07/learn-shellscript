@@ -1,5 +1,5 @@
-$job = 10
-jenkis=pipeline
+$job = $1
+jenkis=$2
 
 if [ $job == "10" ]
 then
