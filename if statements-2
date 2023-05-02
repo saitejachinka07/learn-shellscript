@@ -1,11 +1,11 @@
 job=$1
 jenkins=$2
 
-if [ "$job" != 1 ]
+if [ "$job" != step ]
 then
      echo builds done and $jenkins is started
 
-else [ "$job" == 1 ]
+else [ "$job" == step ]
     echo -e builds done and "\e[36m $jenkins\e[0m " is broken    
 fi
 
