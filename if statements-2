@@ -13,7 +13,7 @@ fi
 
 if [ "$job" -gt 100 ]
 then 
-  echo -e build done in "\e[36m $jenkins \e[0m]" node
+  echo -e build done in "\e[36m $jenkins \e[0m" node
 
 else 
 
