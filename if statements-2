@@ -1,7 +1,7 @@
 job=$1
 jenkins=$2
 
-if [ "$job" == 1 ]
+if [ "$job" != 1 ]
 then
      echo builds done and $jenkins is started
 
