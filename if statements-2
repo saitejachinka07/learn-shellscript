@@ -17,7 +17,7 @@ then
 
 else 
 
-     echo -e build done in "\e[36m savle \e[0m]" node
+     echo -e build done in "\e[36m savle \e[0m" node
 
 fi
 
