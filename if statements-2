@@ -6,6 +6,6 @@ then
      echo builds done and $jenkins is started
 
 else 
-    echo -e "\e[36>>>builds done and $jenkins is broken <<<<  \e[0m"     
+    echo -e "\e[36m>>>builds done and $jenkins is broken <<<<  \e[0m"     
 fi
 
