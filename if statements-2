@@ -5,7 +5,7 @@ if [ "$job" != 1 ]
 then
      echo builds done and $jenkins is started
 
-elif [ "$job" == 1 ]
+else [ "$job" == 1 ]
     echo -e builds done and "\e[36m $jenkins\e[0m " is broken    
 fi
 
