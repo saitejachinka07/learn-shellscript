@@ -9,7 +9,7 @@ fi
 
 if [ "$job" != step ]
 then
-     echo builds done and $jenkins is started
+     echo builds done and pipeline is started
 
 else [ "$job" == step ]
     echo -e builds done and "\e[36m $jenkins\e[0m " is broken    
