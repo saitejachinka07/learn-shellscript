@@ -1,6 +1,11 @@
 job=$1
 jenkins=$2
 
+if [ -z "$job" ]; then
+echo input is missing
+exit
+fi
+
 if [ "$job" != step ]
 then
      echo builds done and $jenkins is started
